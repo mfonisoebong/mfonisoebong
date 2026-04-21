@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a lot of things 👀
 - 🌱 I’m currently learning about Machine learning
 - 👯 I’m looking to collaborate with anybody for any project I find interesting
-- 💬 More about me ... <a href="">Portfolio</a>
 - ⚡ Fun fact: Nothing is fun anymore, LOL 
